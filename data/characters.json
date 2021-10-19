@@ -647,7 +647,7 @@
     "actor": "Richard Griffiths",
     "alternate_actors": [""],
     "alive": true,
-    "image": "https://hp-france.herokuapp.com/images/verny.jpg"
+    "image": "https://hp-france.herokuapp.com/images/Verny.jpg"
   },
   {
     "name": "Petunia Dursley",
@@ -672,7 +672,7 @@
     "actor": "Fiona Shaw",
     "alternate_actors": [""],
     "alive": true,
-    "image": "https://hp-france.herokuapp.com/images/petunia.jpg"
+    "image": "https://hp-france.herokuapp.com/images/Petunia.jpg"
   },
   {
     "name": "Dudley Dursley",
@@ -977,7 +977,7 @@
     "actor": "Richard Macklin",
     "alternate_actors": [""],
     "alive": true,
-    "image": "https://hp-france.herokuapp.com/images/malcolm.jpg"
+    "image": "https://hp-france.herokuapp.com/images/Malcolm.jpg"
   },
   {
     "name": "Gordon",
@@ -1002,7 +1002,7 @@
     "actor": "",
     "alternate_actors": [""],
     "alive": true,
-    "image": "https://hp-france.herokuapp.com/images/gordon.jpg"
+    "image": "https://hp-france.herokuapp.com/images/Gordon.jpg"
   },
   {
     "name": "Miranda Gaushawk",
