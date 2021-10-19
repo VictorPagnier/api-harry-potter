@@ -1,0 +1,9 @@
+{
+    "name": "api-harry-potter",
+    "description": "API to get all the characters from Harry Potter.",
+    "version": "0.0.1",
+    "private": true,
+    "dependencies": {
+        "express": "3.x"
+    }
+}
